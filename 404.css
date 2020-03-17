@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif);
+    height: 100px;
+    width: 100px;
+    margin-bottom: 100;
+    padding: 0;
+    background-position: center;
+    background-color: rgb(21, 21, 54);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header div{
+    font-family: 'Special Elite', cursive;
+    font-size: 260px;
+    color: rgb(119, 156, 156);
+    position: absolute;
+    top: 100px;
+    left: 530px;
+    width: 242;
+    height: 84px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header div #subtitle{
+    font-size: 100px;
+    text-decoration: underline dashed;
+}
+
+p{
+    margin: 0;
+
+}
+
+#argh{
+    font-size: 12px;
+    margin-left: 80%;
+    color: rgb(0, 60, 139)
+}
